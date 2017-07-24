@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: fancyimpute
+Version: 0.2.0
+Summary: Matrix completion and feature imputation algorithms
+Home-page: https://github.com/hammerlab/fancyimpute
+Author: Alex Rubinsteyn, Sergey Feldman
+Author-email: alex.rubinsteyn@gmail.com
+License: http://www.apache.org/licenses/LICENSE-2.0.html
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics

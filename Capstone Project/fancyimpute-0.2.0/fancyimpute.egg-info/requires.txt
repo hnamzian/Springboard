@@ -1,0 +1,9 @@
+six
+knnimpute
+numpy>=1.10
+scipy
+cvxpy
+scikit-learn>=0.17.1
+downhill
+climate
+theano

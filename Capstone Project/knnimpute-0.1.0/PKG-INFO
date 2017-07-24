@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: knnimpute
+Version: 0.1.0
+Summary: k-Nearest Neighbor imputation
+Home-page: https://github.com/hammerlab/knnimpute
+Author: Alex Rubinsteyn
+Author-email: alex.rubinsteyn@gmail.com
+License: http://www.apache.org/licenses/LICENSE-2.0.html
+Description: |Build Status| |Coverage Status|
+        
+        knnimpute
+        =========
+        
+        Multiple implementations of kNN imputation in pure Python + NumPy
+        
+        .. |Build Status| image:: https://travis-ci.org/hammerlab/knnimpute.svg?branch=master
+           :target: https://travis-ci.org/hammerlab/knnimpute
+        .. |Coverage Status| image:: https://coveralls.io/repos/github/hammerlab/knnimpute/badge.svg?branch=master
+           :target: https://coveralls.io/github/hammerlab/knnimpute?branch=master
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Mathematics
